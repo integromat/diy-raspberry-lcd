@@ -14,7 +14,7 @@ npm install
 
 ### Setting-up
 
-Create Integromat scenario with webhook. More information [here]().
+Create Integromat scenario with webhook. More information [here](https://www.development.integromat.com/cs/case-study/iot:how-to-connect-raspberry-pi-and-lcd).
 
 Set `hookUrl` in `config.json`.
 
