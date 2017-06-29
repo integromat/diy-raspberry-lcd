@@ -1,0 +1,13 @@
+{
+    "name": "diy-raspberry-lcd",
+    "author": "Petr Malimanek [Interomat]",
+    "version": "0.1.0",
+    "dependencies": {
+        "lcd": "^1.1.4",
+        "request": "^2.81.0",
+        "async": "^2.4.1"
+    },
+    "scripts": {
+        "start": "node lib/index.js"
+    }
+}
